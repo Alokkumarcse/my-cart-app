@@ -1,0 +1,31 @@
+.navbar {
+   height: 70px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-image: linear-gradient(45deg, lightgreen, lightgray,lightblue);
+   font-size: 40px;
+   padding-bottom: 20px;
+}
+
+/* style for left block */
+.left-block{
+   display: flex;
+   gap:5px;
+}
+
+/* style for right block */
+.right-block {
+   position: relative;
+}
+
+.cart-item-count {
+   position: absolute;
+   top:-13px;
+   left:50%;
+   border-radius: 50%;
+   background-color: rgb(233, 233, 115);
+   font-size: 15px;
+   font-weight: bold;
+   padding: 7px;
+}
