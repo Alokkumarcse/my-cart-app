@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### How to connect with firebase/firestore database and manipulate the database
 
-#### Perform *crud* operations
+#### Perform *CRUD* operations
 
 
 
